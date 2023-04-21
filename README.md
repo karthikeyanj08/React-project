@@ -61,6 +61,9 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ### `npm run eject`
 
+Project explanation video:
+https://www.loom.com/share/49f903277689456ebe7a9eaba889f6c7
+
 
 
 
