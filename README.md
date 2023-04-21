@@ -1,5 +1,5 @@
 Pizza restaurent website:
- click to view the live project:http: "localhost:3000"
+ click to view the live project: "http://localhost:3000/"
 
 UI of the project:
 
